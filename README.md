@@ -1,2 +1,2 @@
-# TextTranscriptions
+# Transcript files
 Text transcripts
